@@ -5,7 +5,6 @@ url: /post/windows-platform-test-zg9q0u.html
 date: '2023-09-18 09:35:08'
 lastmod: '2023-11-13 15:49:00'
 toc: true
-isCJKLanguage: true
 ---
 
 # Requirements
