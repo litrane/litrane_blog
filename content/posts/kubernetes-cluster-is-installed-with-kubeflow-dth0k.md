@@ -76,7 +76,7 @@ while ! kustomize build example | awk '!/well-defined/' | kubectl apply -f -; do
 kubectl get pods -A
 ```
 
-下载[training operator](https://github.com/kubeflow/training-operator)以及前置条件，先去[worker确认环境配好了](siyuan://blocks/20230411143336-pyqltmb)
+下载[training operator](https://github.com/kubeflow/training-operator)以及前置条件，先去worker确认环境配好了
 
 ```python
 cd ~
