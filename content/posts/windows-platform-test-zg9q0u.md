@@ -1,11 +1,3 @@
----
-title: windows平台测试
-slug: windows-platform-test-zg9q0u
-url: /post/windows-platform-test-zg9q0u.html
-date: '2023-09-18 09:35:08'
-lastmod: '2023-11-13 15:49:00'
-toc: true
----
 
 # Requirements
 
@@ -416,25 +408,25 @@ root@node:~# systemctl restart containerd.service
 
 Follow
 
-answered <span style="font-weight: bold;" data-type="strong">Sep 21, 2022 at 21:06</span>
+answered <span style="font-weight: bold;" class="bold">Sep 21, 2022 at 21:06</span>
 
 ​![AniketGole's user avatar](https://www.gravatar.com/avatar/985cca4037f512dc01944b2dc829ee62?s=64&d=identicon&r=PG)[https://stackoverflow.com/users/1425867/aniketgole](https://stackoverflow.com/users/1425867/aniketgole)
 
-[AniketGole](https://stackoverflow.com/users/1425867/aniketgole)​<span style="font-weight: bold;" data-type="strong">919</span>2<span style="font-weight: bold;" data-type="strong">2 gold badges</span>12<span style="font-weight: bold;" data-type="strong">12 silver badges</span>23<span style="font-weight: bold;" data-type="strong">23 bronze badges</span>
+[AniketGole](https://stackoverflow.com/users/1425867/aniketgole)​<span style="font-weight: bold;" class="bold">919</span>2<span style="font-weight: bold;" class="bold">2 gold badges</span>12<span style="font-weight: bold;" class="bold">12 silver badges</span>23<span style="font-weight: bold;" class="bold">23 bronze badges</span>
 
-* <span style="font-weight: bold;" data-type="strong">This, this one works. tnx.</span>  – [Rm4n](https://stackoverflow.com/users/13875968/rm4n "623 reputation")
+* <span style="font-weight: bold;" class="bold">This, this one works. tnx.</span>  – [Rm4n](https://stackoverflow.com/users/13875968/rm4n "623 reputation")
 
   [Apr 5 at 13:06](https://stackoverflow.com/questions/49112336/container-runtime-network-not-ready-cni-config-uninitialized#comment133942258_73806933)
-* <span style="font-weight: bold;" data-type="strong">thanks this unlocked it, -- kubeadm 1.26.3 Calico CNI Containerd Docker.io -- Would be great to know the reason why.</span>  – [setrar](https://stackoverflow.com/users/1490003/setrar "103 reputation")
+* <span style="font-weight: bold;" class="bold">thanks this unlocked it, -- kubeadm 1.26.3 Calico CNI Containerd Docker.io -- Would be great to know the reason why.</span>  – [setrar](https://stackoverflow.com/users/1490003/setrar "103 reputation")
 
   [Apr 10 at 22:47](https://stackoverflow.com/questions/49112336/container-runtime-network-not-ready-cni-config-uninitialized#comment134009984_73806933)
-* <span style="font-weight: bold;" data-type="strong">This did it for me. kubernetesVersion 1.27.3 using flannel. Followed by a systemctl restart kubelet.</span>  – [sm0ke21](https://stackoverflow.com/users/1120690/sm0ke21 "461 reputation")
+* <span style="font-weight: bold;" class="bold">This did it for me. kubernetesVersion 1.27.3 using flannel. Followed by a systemctl restart kubelet.</span>  – [sm0ke21](https://stackoverflow.com/users/1120690/sm0ke21 "461 reputation")
 
   [Jul 10 at 18:11](https://stackoverflow.com/questions/49112336/container-runtime-network-not-ready-cni-config-uninitialized#comment135150132_73806933)
-*  <span style="font-weight: bold;" data-type="strong">@setrar AppArmor is a Linux kernel security module that allows the system administrator to restrict programs' capabilities with per-program profiles. Profiles can allow capabilities like network access, raw socket access, and the permission to read, write, or execute files on matching paths, need to configure AppArmor if you want to allow k8s services</span> – [AniketGole](https://stackoverflow.com/users/1425867/aniketgole "919 reputation")
+*  <span style="font-weight: bold;" class="bold">@setrar AppArmor is a Linux kernel security module that allows the system administrator to restrict programs' capabilities with per-program profiles. Profiles can allow capabilities like network access, raw socket access, and the permission to read, write, or execute files on matching paths, need to configure AppArmor if you want to allow k8s services</span> – [AniketGole](https://stackoverflow.com/users/1425867/aniketgole "919 reputation")
 
   [Sep 21 at 11:59](https://stackoverflow.com/questions/49112336/container-runtime-network-not-ready-cni-config-uninitialized#comment136007377_73806933)
-* <span style="font-weight: bold;" data-type="strong">restart containerd.service it works for me</span> – [Chrisk8er](https://stackoverflow.com/users/3696390/chrisk8er "5,730 reputation")
+* <span style="font-weight: bold;" class="bold">restart containerd.service it works for me</span> – [Chrisk8er](https://stackoverflow.com/users/3696390/chrisk8er "5,730 reputation")
 
   [Sep 25 at 16:51](https://stackoverflow.com/questions/49112336/container-runtime-network-not-ready-cni-config-uninitialized#comment136051262_73806933)
 
