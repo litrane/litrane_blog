@@ -1,21 +1,3 @@
----
-title: docker vs local environment
-slug: docker-vs-local-environment-z1nnrua
-url: /post/docker-vs-local-environment-z1nnrua.html
-date: '2024-03-07 19:16:03'
-lastmod: '2024-03-07 19:16:32'
-toc: true
-tags:
-  - 本地环境
-  - 容器化
-  - kubernetes
-  - GPU驱动
-  - 网络工具
-categories:
-  - draft
-keywords: 本地环境,容器化,kubernetes,GPU驱动,网络工具
-isCJKLanguage: true
----
 
 ## local environment
 
