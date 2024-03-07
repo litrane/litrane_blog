@@ -1,7 +1,6 @@
 ---
 title: Kubernetes集群搭建与Kubeflow安装
 slug: kubernetes-cluster-is-installed-with-kubeflow-dth0k
-url: /post/kubernetes-cluster-is-installed-with-kubeflow-dth0k.html
 date: '2023-04-09 14:50:12'
 lastmod: '2023-11-13 15:26:39'
 toc: true
