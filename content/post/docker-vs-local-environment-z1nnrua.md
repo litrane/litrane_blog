@@ -1,12 +1,3 @@
----
-title: docker vs local environment
-slug: docker-vs-local-environment-z1nnrua
-url: /post/docker-vs-local-environment-z1nnrua.html
-date: '2023-10-20 08:37:29'
-lastmod: '2024-03-07 19:20:57'
-toc: true
-isCJKLanguage: true
----
 
 ## local environment
 
