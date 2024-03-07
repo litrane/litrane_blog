@@ -1,7 +1,6 @@
 ---
 title: zerotier安装
 slug: zerotier-installation-1o14jy
-url: /post/zerotier-installation-1o14jy.html
 date: '2023-07-20 23:16:01'
 lastmod: '2024-03-07 19:33:12'
 toc: true
